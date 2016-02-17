@@ -3918,3 +3918,7 @@
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+span .yellow-em {
+  color: #FFC300;
+}
